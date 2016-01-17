@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<car>
+    <type>
+        <name>美系</name>
+        <keywords>通用;福特;克莱斯勒</keywords>
+    </type>
+    <type>
+        <name>日系</name>
+        <keywords>丰田;日产;本田</keywords>
+    </type>
+    <type>
+        <name>德系</name>
+        <keywords>大众;戴勒姆;宝马</keywords>
+    </type>
+    <type>
+        <name>新能源</name>
+        <keywords>电动汽车;纯电动汽车;bev;ｂｅｖ;混合动力汽车;phev;ｐｈｅｖ;燃料电池汽车;fcev;ｆｃｅｖ;特斯拉</keywords>
+    </type>
+</car>

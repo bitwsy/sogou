@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<bmwCar>
+    <type>
+        <name>宝马3系</name>
+        <keywords>宝马3;宝马３</keywords>
+    </type>
+    <type>
+        <name>宝马5系</name>
+        <keywords>宝马5;宝马５</keywords>
+    </type>
+    <type>
+        <name>宝马7系</name>
+        <keywords>宝马7;宝马７</keywords>
+    </type>
+</bmwCar>

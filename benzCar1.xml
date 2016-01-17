@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<benzCar>
+    <type>
+        <name>奔驰c级</name>
+        <keywords>奔驰c;奔驰ｃ;奔驰Ｃ</keywords>
+    </type>
+    <type>
+        <name>奔驰e级</name>
+        <keywords>奔驰e;奔驰ｅ;奔驰Ｅ</keywords>
+    </type>
+    <type>
+        <name>奔驰s级</name>
+        <keywords>奔驰ｓ;奔驰Ｓ;奔驰s</keywords>
+    </type>
+</benzCar>

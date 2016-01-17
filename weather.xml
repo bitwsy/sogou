@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<weather>
+    <type>
+        <name>good</name>
+        <keywords>晴朗;晴天;万里无云;风和日丽;晒;湛蓝;碧空;清新;户外运动;篮球;登山;国内游;自驾;北京旅游;骑行;遮阳帽;防晒霜;大排量;豪华车;发展;工信部;驴友;去哪儿;航旅纵横;城觅;百度地图</keywords>
+    </type>
+    <type>
+        <name>bad</name>
+        <keywords>雾霾;阴;风沙;沙尘暴;阴霾;昏暗;健身房;游泳;保龄球;出国游;签证;马尔代夫;口罩;跑步机;限行;关停;封路;防毒;环保;环保部;发改委;电影院;同城交往;陌陌;豆瓣;imuseum;小熊快跑</keywords>
+    </type>
+</weather>

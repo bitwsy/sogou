@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<audi>
+    <type>
+        <name>奥迪a4</name>
+        <keywords>奥迪a4;奥迪Ａ４;奥迪Ａ４</keywords>
+    </type>
+    <type>
+        <name>奥迪a6</name>
+        <keywords>奥迪a6;奥迪Ａ６;奥迪ａ６</keywords>
+    </type>
+    <type>
+        <name>奥迪a8</name>
+        <keywords>奥迪a8;奥迪Ａ８;奥迪ａ８</keywords>
+    </type>
+</audi>
